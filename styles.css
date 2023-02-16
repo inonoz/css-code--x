@@ -1,0 +1,20 @@
+/* Here is a comment */
+/* This code makes all H1's red */
+h1 {
+    color:/* comments can appear anywhere */ red;
+}
+.another-class {
+    color: blue;
+}
+.classes {
+    color: gold;
+}
+#my-id {
+    color: magenta;
+}
+ul span {
+    color: orange;
+}
+h5.classes {
+    color: pink;
+}

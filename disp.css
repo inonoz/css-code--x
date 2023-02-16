@@ -1,0 +1,8 @@
+.div1 {
+    background-color: salmon;
+    display: inline;
+}
+.span1 {
+    background-color: aquamarine;
+    display: block;
+}

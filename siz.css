@@ -1,0 +1,11 @@
+body {
+    height: 180vh;
+    background-color: darksalmon;
+}
+p {
+    background-color: cyan;
+    width: 300px;
+    margin-left: 150px;
+    padding: 50px;
+
+}
